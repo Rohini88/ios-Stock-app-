@@ -1,0 +1,103 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ViewController"
+provides-nominal:
+- "C9P07_Quote14ViewController"
+- "CC9P07_Quote14ViewController6MyCell"
+provides-member:
+- ["C9P07_Quote14ViewController", ""]
+- ["CC9P07_Quote14ViewController6MyCell", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "UIAlertAction"
+- !private "/"
+- "Array"
+- "Int"
+- !private "dataforListTableViewCell"
+- "String"
+- "NSIndexPath"
+- "NSTimer"
+- "AnyObject"
+- "Void"
+- !private "presentViewController"
+- "UIBarButtonItem"
+- "UIColor"
+- !private "!"
+- !private "=="
+- "UITableViewCell"
+- "ViewController"
+- "UITableViewCellEditingStyle"
+- !private "UIControlEvents"
+- "UITableView"
+- "Bool"
+- "CGFloat"
+- "UITableViewController"
+- "UIStoryboardSegue"
+- !private "CGRectMake"
+- !private "UITextField"
+- "Double"
+- "UIView"
+- !private "print"
+- !private "UIAlertController"
+- "CALayer"
+- "UIRefreshControl"
+depends-member:
+- ["CC9P07_Quote14ViewController6MyCell", "Bool"]
+- ["CC9P07_Quote14ViewController6MyCell", "UIView"]
+- ["CC9P07_Quote14ViewController6MyCell", "deinit"]
+- ["CC9P07_Quote14ViewController6MyCell", "init"]
+- !private ["CC9P07_Quote14ViewController6MyCell", "myView"]
+- ["C9P07_Quote14ViewController", "AnyObject"]
+- ["C9P07_Quote14ViewController", "Array"]
+- ["C9P07_Quote14ViewController", "Bool"]
+- ["C9P07_Quote14ViewController", "CGFloat"]
+- !private ["C9P07_Quote14ViewController", "CGRectMake"]
+- ["C9P07_Quote14ViewController", "Int"]
+- ["C9P07_Quote14ViewController", "MyCell"]
+- ["C9P07_Quote14ViewController", "NSIndexPath"]
+- ["C9P07_Quote14ViewController", "NSTimer"]
+- ["C9P07_Quote14ViewController", "String"]
+- ["C9P07_Quote14ViewController", "UIAlertAction"]
+- !private ["C9P07_Quote14ViewController", "UIAlertController"]
+- ["C9P07_Quote14ViewController", "UIBarButtonItem"]
+- ["C9P07_Quote14ViewController", "UIColor"]
+- !private ["C9P07_Quote14ViewController", "UIControlEvents"]
+- ["C9P07_Quote14ViewController", "UIRefreshControl"]
+- ["C9P07_Quote14ViewController", "UIStoryboardSegue"]
+- ["C9P07_Quote14ViewController", "UITableView"]
+- ["C9P07_Quote14ViewController", "UITableViewCell"]
+- ["C9P07_Quote14ViewController", "UITableViewCellEditingStyle"]
+- !private ["C9P07_Quote14ViewController", "UITextField"]
+- ["C9P07_Quote14ViewController", "UIView"]
+- ["C9P07_Quote14ViewController", "Void"]
+- !private ["C9P07_Quote14ViewController", "arrayofStrings"]
+- !private ["C9P07_Quote14ViewController", "cancelDeletePlanet"]
+- ["C9P07_Quote14ViewController", "cfp_updateQuote"]
+- !private ["C9P07_Quote14ViewController", "confirmDelete"]
+- !private ["C9P07_Quote14ViewController", "cv_ComplistItems"]
+- !private ["C9P07_Quote14ViewController", "dataforListTableViewCell"]
+- ["C9P07_Quote14ViewController", "deinit"]
+- !private ["C9P07_Quote14ViewController", "deleteQuoteIndexPath"]
+- ["C9P07_Quote14ViewController", "didReceiveMemoryWarning"]
+- !private ["C9P07_Quote14ViewController", "editing"]
+- !private ["C9P07_Quote14ViewController", "finalData"]
+- !private ["C9P07_Quote14ViewController", "handleDeletePlanet"]
+- ["C9P07_Quote14ViewController", "init"]
+- !private ["C9P07_Quote14ViewController", "myListTableView"]
+- !private ["C9P07_Quote14ViewController", "presentViewController"]
+- !private ["C9P07_Quote14ViewController", "print"]
+- !private ["C9P07_Quote14ViewController", "refreshControl"]
+- !private ["C9P07_Quote14ViewController", "tableView"]
+- ["C9P07_Quote14ViewController", "viewDidLoad"]
+- !private ["C9P07_Quote14ViewController", "vv_refreshControl"]
+depends-nominal:
+- "CC9P07_Quote14ViewController6MyCell"
+- "C9P07_Quote14ViewController"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+interface-hash: "caadd08e543c9b26e1bb422f0ce83ee7"

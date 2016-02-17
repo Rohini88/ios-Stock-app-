@@ -1,0 +1,8 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "881827001f1eae9f493db1d2b462a4cf"
+build_time: [509048939, 702285000]
+inputs:
+  "/Users/rshinde/Desktop/P07-Quote/P07-Quote/dataforListTableViewCell.swift": !dirty [503193408, 0]
+  "/Users/rshinde/Desktop/P07-Quote/P07-Quote/AppDelegate.swift": !dirty [502491424, 0]
+  "/Users/rshinde/Desktop/P07-Quote/P07-Quote/subViewController.swift": !dirty [503445227, 0]
+  "/Users/rshinde/Desktop/P07-Quote/P07-Quote/ViewController.swift": !dirty [509048442, 0]
